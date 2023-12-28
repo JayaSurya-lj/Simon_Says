@@ -29,6 +29,11 @@ This is a simple Simon Says game implemented using HTML, CSS, and JavaScript. Si
 
 ## Screenshots
 
+<img src="Screenshot (1339).png">
+<BR>
+<img src="Screenshot (1340).png">
+<BR>
+
 <br>
 <h3>Contributing</h3>
 <p>If you'd like to contribute to this project, please follow these steps:<p>
