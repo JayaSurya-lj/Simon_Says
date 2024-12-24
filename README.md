@@ -21,6 +21,10 @@ This is a simple Simon Says game implemented using HTML, CSS, and JavaScript. Si
 5. The game continues until an incorrect move is made.
 6. Your score is displayed at the end of each game.
 
+<p>
+  You can also watch the demo website here: https://guileless-fox-711ae0.netlify.app/
+</p>
+
 ## Technologies Used
 
 - HTML5
